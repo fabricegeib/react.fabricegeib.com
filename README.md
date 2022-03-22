@@ -34,6 +34,22 @@ my-app
     └── setupTests.js
 ```
 
+## Github Pages
+
+```
+npm install gh-pages --save-dev
+```
+
+on `package.json` add :
+
+```
+"homepage": "http://fabricegeib.github.io/react.fabricegeib.com"
+
+# in script
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build",
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
