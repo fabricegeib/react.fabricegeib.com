@@ -50,6 +50,14 @@ on `package.json` add :
 		"deploy": "gh-pages -d build",
 ```
 
+## Settings Github Pages
+
+https://github.com/fabricegeib/react.fabricegeib.com/settings/pages
+
+GitHub Pages  
+Sources  
+Branch: gh-pages /root
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
