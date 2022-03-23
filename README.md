@@ -52,7 +52,7 @@ on `package.json` add :
 
 ## Settings Github Pages
 
-https://github.com/fabricegeib/react.fabricegeib.com/settings/pages
+[https://github.com/fabricegeib/react.fabricegeib.com/settings/pages](https://github.com/fabricegeib/react.fabricegeib.com/settings/pages)
 
 GitHub Pages  
 Sources  
@@ -60,14 +60,12 @@ Branch: gh-pages /root
 
 ## Editor Setup
 
-https://create-react-app.dev/docs/setting-up-your-editor
+[https://create-react-app.dev/docs/setting-up-your-editor](https://create-react-app.dev/docs/setting-up-your-editor)
 
 
 ## Developing Components in Isolation
 
-https://create-react-app.dev/docs/developing-components-in-isolation
-
----
+[https://create-react-app.dev/docs/developing-components-in-isolation](https://create-react-app.dev/docs/developing-components-in-isolation)
 
 # Getting Started with Create React App
 
