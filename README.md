@@ -58,6 +58,17 @@ GitHub Pages
 Sources  
 Branch: gh-pages /root
 
+## Editor Setup
+
+https://create-react-app.dev/docs/setting-up-your-editor
+
+
+## Developing Components in Isolation
+
+https://create-react-app.dev/docs/developing-components-in-isolation
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
