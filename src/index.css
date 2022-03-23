@@ -12,6 +12,10 @@ code {
     monospace;
 }
 
+button {
+	border: none;
+}
+
 .container {
 	padding: 0 2rem;
 }
