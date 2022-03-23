@@ -1,3 +1,5 @@
+[Demo](https://fabricegeib.github.io/react.fabricegeib.com/)
+
 # Creation steps
 
 ```
@@ -69,6 +71,10 @@ Branch: gh-pages /root
 
 ## Events
 ?t=2268
+
+# Resources
+[https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/](https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/)
+
 
 # Getting Started with Create React App
 
