@@ -12,6 +12,10 @@ code {
     monospace;
 }
 
+.container {
+	padding: 0 2rem;
+}
+
 .cards {
   display: flex;
   flex-direction: row;

@@ -22,8 +22,8 @@ function App() {
 				</a>
 			</header>
 			<main className="App-main">
-				<div className="">
-					<p>{name}</p>
+				<div className="App-container">
+					<p>Hello world I'm {name}</p>
 					<code>const x = {x ? "True" : "False"}</code>
 				</div>
 			</main>
