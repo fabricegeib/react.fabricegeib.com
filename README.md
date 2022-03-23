@@ -1,4 +1,4 @@
-# Informations
+# Creation steps
 
 ```
 npx create-react-app react.fabricegeib.com

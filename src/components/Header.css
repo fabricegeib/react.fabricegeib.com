@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: space-between;
+}
+.header__title {
+
+}
+.header__button {
+	/* align-self: flex-end; */
+}
