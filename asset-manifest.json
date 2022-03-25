@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react.fabricegeib.com/static/css/main.23173ed8.css",
-    "main.js": "/react.fabricegeib.com/static/js/main.9e6c4a1a.js",
+    "main.css": "/react.fabricegeib.com/static/css/main.a85b6e59.css",
+    "main.js": "/react.fabricegeib.com/static/js/main.5f4391ce.js",
     "static/js/787.76bb8b58.chunk.js": "/react.fabricegeib.com/static/js/787.76bb8b58.chunk.js",
     "static/media/logo.svg": "/react.fabricegeib.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react.fabricegeib.com/index.html",
-    "main.23173ed8.css.map": "/react.fabricegeib.com/static/css/main.23173ed8.css.map",
-    "main.9e6c4a1a.js.map": "/react.fabricegeib.com/static/js/main.9e6c4a1a.js.map",
+    "main.a85b6e59.css.map": "/react.fabricegeib.com/static/css/main.a85b6e59.css.map",
+    "main.5f4391ce.js.map": "/react.fabricegeib.com/static/js/main.5f4391ce.js.map",
     "787.76bb8b58.chunk.js.map": "/react.fabricegeib.com/static/js/787.76bb8b58.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23173ed8.css",
-    "static/js/main.9e6c4a1a.js"
+    "static/css/main.a85b6e59.css",
+    "static/js/main.5f4391ce.js"
   ]
 }
