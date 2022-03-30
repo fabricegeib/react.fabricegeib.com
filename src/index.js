@@ -11,7 +11,7 @@ ReactDOM.render(
 	<React.StrictMode>
 		<Header title='Props title' />
 		<App />
-		{/* <Supabase /> */}
+		<Supabase />
 		<Footer />
 	</React.StrictMode>,
 	document.getElementById('root')
