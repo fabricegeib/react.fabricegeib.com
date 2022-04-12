@@ -12,7 +12,7 @@ ReactDOM.render(
 	<React.StrictMode>
 		<Header title='Props title' />
 		<App />
-		<Supabase />
+		{/* <Supabase /> */}
 		<Tasks />
 		<Footer />
 	</React.StrictMode>,
