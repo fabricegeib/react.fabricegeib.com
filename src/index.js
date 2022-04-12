@@ -4,6 +4,7 @@ import './index.css';
 import Header from './components/Header';
 import App from './App';
 import Supabase from './components/Supabase';
+import Tasks from './components/Tasks';
 import Footer from './components/Footer';
 import reportWebVitals from './reportWebVitals';
 
@@ -12,6 +13,7 @@ ReactDOM.render(
 		<Header title='Props title' />
 		<App />
 		<Supabase />
+		<Tasks />
 		<Footer />
 	</React.StrictMode>,
 	document.getElementById('root')
